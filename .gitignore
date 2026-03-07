@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+
+# Executable files and build outputs
+bin/
+
+# Local VS Code settings (optional, but recommended if you work with a team)
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
